@@ -1,0 +1,16 @@
+{
+'members':{
+ 'CApp':{
+     'Name':'CApp',
+     'Profile':'url(https://github.com/CApp-chat)'
+     'pos':'main account',
+     'handled by':'SGI'
+      }
+ 'SGI':{
+      'Name':'SGI-CAPP-AT2',
+      'Profile':'url(https://github.com/SGI-CAPP-AT2)'
+      'pos':'developer',
+      'handled by':'same',
+       }
+        }
+}
